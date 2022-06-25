@@ -13,7 +13,16 @@
         switch ($operasi) {
             case 'tambah':
                 $hasil = $bil1+$bil2;
+            break;   
+            case 'kurang':
+                $hasil = $bil1-$bil2;
             break;      
+            case 'kali':
+                $hasil = $bil1*$bil2;
+            break;
+            case 'bagi':
+                $hasil = $bil1/$bil2;
+            break;  
         }
     }
     ?>
