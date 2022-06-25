@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Kalkulator</title>
+    <title>Kalkulator Rafif</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -27,7 +27,7 @@
     }
     ?>
     <div class="kalkulator">
-        <h2 class="judul">KALKULATOR</h2>
+        <h2 class="judul">KALKULATOR RAFIF</h2>
         <form method="post" action="index.php">           
             <input type="text" name="bil1" class="bil" autocomplete="off" placeholder="Masukkan Bilangan Pertama" >
             <input type="text" name="bil2" class="bil" autocomplete="off" placeholder="Masukkan Bilangan Kedua" >
